@@ -1,5 +1,6 @@
 Timer v1.0
 
+Timer is made by Kelvin-C
 It is used to capture specific times of a video during video capture.
 It can also be used as a timer to create lap times.
 
